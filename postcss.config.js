@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Juventus Official Fan Club Lörrach G. Agnelli - biglietti, trasferte, partite e contatti." />
+    <title>Juventus Official Fan Club Lörrach G. Agnelli</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
